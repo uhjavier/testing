@@ -1,4 +1,8 @@
 This is an input from Ben?
+this is another msg from Ben???
+
+
+this is our message from Ben???
 
 <<<<<<< HEAD
 😍😍😍
@@ -11,6 +15,3 @@ go boom
 bye bye.
 =======
 MEI HOU WANG 500 HEN SHUAI
->>>>>>> aa2fac9882a2ee2db3c0526f0270091ab3f586aa
-damn
-push
