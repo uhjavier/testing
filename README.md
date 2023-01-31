@@ -9,6 +9,8 @@ this is our message from Ben???
 
 MEI HOU WANG 500 HEN SHUAI
 
+goodbye
+oioiiiii go away
 
 
 
